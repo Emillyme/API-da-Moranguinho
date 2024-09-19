@@ -1,0 +1,92 @@
+personagens = {
+    1:{
+        "nome": "Moranguinho",
+        "genero": "Feminino"  ,
+        "fruta_fav": "Morango",
+        "cor_fav": "Rosa",
+        "profissao": "Confeiteira",
+        "personalidade": "Seu cabelo é rosa magenta, seus olhos são verde e sua pele é branca. Ela tem sardas no meio de seus olhos.",
+        "animal_estimacao": ["Mostarda a gata", "Rocambole o cachorro"],
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/9/97/Strawberry_Shortcake.png/revision/latest?cb=20231021184932"
+    },
+    2:{
+        "nome": "Biscoitinho",
+        "genero": "Feminino"  ,
+        "fruta_fav": "Uva",
+        "cor_fav": "Azul",
+        "profissao": "Padeiro",
+        "personalidade": "Ela é muito engraçada e tagarela, tem uma grande fábrica de biscoitos.",
+        "animal_estimacao": "Chocolate o esquilo",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/a/a2/Gingersnap2003transparent.png/revision/latest?cb=20210919222820"
+    },
+    3:{
+        "nome": "Amora",
+        "genero": "Feminino"  ,
+        "fruta_fav": "Mirtilo",
+        "cor_fav": "Azul",
+        "profissao": "Bibliotecaria",
+        "personalidade": "Ela é esperta, inteligente, e rápida para pensar sobre um problema em primeiro lugar.",
+        "animal_estimacao": "Scouty o cachorro",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/d/dd/C2a2f1d97807535d5cc6ad52b9194822.jpg/revision/latest?cb=20160817203952"
+    },
+    4:{
+        "nome": "Cachinho de Framboesa",
+        "genero": "Feminino"  ,
+        "fruta_fav": "Framboesa",
+        "cor_fav": "Magenta",
+        "profissao": "Fashionista",
+        "personalidade": "Ela é elegante, simpática, educada e se preocupa muito com suas modas, tanto quanto suas amigas.",
+        "animal_estimacao": "Chiffon a cadela",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/8/89/Raspberry-torte.jpg/revision/latest?cb=20160122141525"
+    },
+    5:{
+        "nome": "Laranjinha",
+        "genero": "Feminino",
+        "fruta_fav": "Laranja",
+        "cor_fav": "Laranja",
+        "profissao": "Gerente de Loja",
+        "personalidade": "Ela é inteligente, energética, engenhosa, esportiva, aventureira, atenciosa e sempre está pronta para ajudar.",
+        "animal_estimacao": "Marmelada a cadela",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/6/6a/Orange_Blossom.png/revision/latest?cb=20160122142711"
+    },
+    6:{
+        "nome": "Gotinha de Limão",
+        "genero": "Feminino",
+        "fruta_fav": "Limão",
+        "cor_fav": "Amarelo",
+        "profissao": "Cabeleireira",
+        "personalidade": "Ela é criativa, elegante, doce, feminina e pensa rápido quando se trata de resolver qualquer problema de cabelo.",
+        "animal_estimacao": "Henna a cadela",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2Kd39MDw-mDrBryTw7Z0aSn0tul4ZPGfY8QnNGH2BxDxH0fxthMi5CS66Bv6nIF81Uk&usqp=CAU"
+    },
+    7:{
+        "nome": "Maçãzinha",
+        "genero": "Feminino",
+        "fruta_fav": "Maçã",
+        "cor_fav": ["Vermelho", "Amarelo"],
+        "profissao": "Ser bebê",
+        "personalidade": "Ela é muito fofa e energética.",
+        "animal_estimacao": "Hora do Chá a tartaruga",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/c/c6/Croque-Pomme.png/revision/latest?cb=20240627192304"
+    },
+    8:{
+        "nome": "Limãozinho",
+        "genero": "Masculino",
+        "fruta_fav": "Mirtilo",
+        "cor_fav": "Azul",
+        "profissao": "Skatista",
+        "personalidade": "Um garoto gentil e muito companheiro, tentando ajudar sempre que pode.",
+        "animal_estimacao": "Pupcake o cachorro",
+        "imagem": "https://static.wikia.nocookie.net/poohadventures/images/6/69/Huckleberry_Pie.jpg/revision/latest?cb=20201015233750"
+    },
+    9:{
+        "nome": "Uvinha",
+        "genero": "Feminino",
+        "fruta_fav": "Uva",
+        "cor_fav": "Lilás",
+        "profissao": "Confeiteira",
+        "personalidade": "Sempre amiga, gentil e dando sempre o seu melhor pra agradar seus amigos.",
+        "animal_estimacao": "Souffle a ovelha",
+        "imagem": "https://static.wikia.nocookie.net/strawberryshortcake/images/c/c6/Croque-Pomme.png/revision/latest?cb=20240627192304"
+    }
+}
